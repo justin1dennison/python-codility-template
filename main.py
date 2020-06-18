@@ -1,1 +1,2 @@
-print("you are ready")
+def solution():
+    pass
